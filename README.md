@@ -337,7 +337,7 @@ Program executed successfully on<span style="color:#308080; ">:</span> <span sty
 
 ## 6. Future Work
 
-* We proposed to explore the following related issues:
+* We shall explore the following related issues:
   * To further explore the YCrCb color space skin segmentation
   * To experiment with different combinations of color range thresholds
   * To explore the sensitivity of the YCrCb color space skin segmentation to different factors, including:
