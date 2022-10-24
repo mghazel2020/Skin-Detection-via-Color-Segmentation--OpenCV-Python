@@ -1,4 +1,4 @@
-# Human Skin Detection via Color Space Segmentation inPython
+# Human Skin Detection via Color Space Segmentation in Python
 
 <img src="images/Banner--Skin-Detection.jpg" width = "500"/>
 
